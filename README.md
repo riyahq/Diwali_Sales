@@ -32,22 +32,20 @@ The dataset contains transaction details from a Diwali sales campaign, including
 
 ## 📌 Customer Demographics Analysis
 
-- Majority of the buyers are young adults (18-35 years old).
+- Majority of the buyers are 26-35 years old.
 
-- Males contribute to a higher share of total sales compared to females.
+- Females contribute to a higher share of total sales compared to males.
 
 
 ## 📌 State-wise Sales Distribution
 
-- Top-selling states: Maharashtra, Karnataka, and Uttar Pradesh.
+- Top-selling states: Uttar Pradesh, Maharashtra, Karnataka.
 
 - Higher urban sales compared to rural regions.
 
 
 ## 📌 Product Category Analysis
 
-- Electronics & Apparel are the top-selling categories.
-
-- High-value products are mostly purchased by working professionals.
+- Most of the buyers working in IT, Healthcare and Aviation are more likely to buy products from Food, Clothing and Electronics category
 
 
